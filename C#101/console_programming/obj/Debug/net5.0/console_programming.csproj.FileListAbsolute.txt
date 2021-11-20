@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.exe
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.deps.json
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.dll
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\ref\console_programming.dll
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\bin\Debug\net5.0\console_programming.pdb
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.dll
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\ref\console_programming.dll
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.pdb
+C:\Users\MrzMonster\Desktop\Csharp_project_patika\console_programming\obj\Debug\net5.0\console_programming.genruntimeconfig.cache
