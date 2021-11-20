@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi\C#101_project_patika\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
