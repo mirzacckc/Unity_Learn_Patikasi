@@ -7,7 +7,7 @@
 Merhana arkadaşlar burası Patika.dev Unity Learn Patikasındaki yapılan örnek projeler,projeler ve ödevler için açılmıştır. 
 
 ## Icerikler
-- Porjeler
+- Projeler
 - Örnek projeler
 - Ödevler
 
