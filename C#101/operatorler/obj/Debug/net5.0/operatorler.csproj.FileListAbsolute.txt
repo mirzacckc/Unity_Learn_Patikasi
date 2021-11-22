@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\bin\Debug\net5.0\operatorler.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
