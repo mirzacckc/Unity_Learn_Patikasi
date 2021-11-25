@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\ref\if_else_if.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\bin\Debug\net5.0\if_else_if.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\ref\if_else_if.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\if_else_if\obj\Debug\net5.0\if_else_if.genruntimeconfig.cache
