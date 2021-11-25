@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\ref\switch_case.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\bin\Debug\net5.0\switch_case.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\ref\switch_case.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\switch_case\obj\Debug\net5.0\switch_case.genruntimeconfig.cache
