@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\ref\donguler_for_loop.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\ref\donguler_for_loop.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.genruntimeconfig.cache
