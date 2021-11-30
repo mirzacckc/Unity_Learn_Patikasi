@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\ref\donguler_while_foreach.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\bin\Debug\net5.0\donguler_while_foreach.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\ref\donguler_while_foreach.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\donguler_while_foreach\obj\Debug\net5.0\donguler_while_foreach.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "donguler_while_foreach/1.0.0": {
+        "runtime": {
+          "donguler_while_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "donguler_while_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
