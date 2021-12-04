@@ -1,0 +1,16 @@
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.exe
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.deps.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.runtimeconfig.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.runtimeconfig.dev.json
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\ref\diziler_array_sinifi_metodlari.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\bin\Debug\net5.0\diziler_array_sinifi_metodlari.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.csproj.AssemblyReference.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.AssemblyInfoInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.AssemblyInfo.cs
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\ref\diziler_array_sinifi_metodlari.dll
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.pdb
+C:\Users\MrzMonster\Desktop\Unity_Learn_Patikasi1\C#101\diziler_array_sinifi_metodlari\obj\Debug\net5.0\diziler_array_sinifi_metodlari.genruntimeconfig.cache
